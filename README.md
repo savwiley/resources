@@ -41,6 +41,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Pexels](https://www.pexels.com/) - large, searchable collection
 * [Unsplash](https://unsplash.com/images/stock) - another large, searchable collection
 * [Pixabay](https://pixabay.com/) - another large, searchable collection
+* [FreePik](https://www.freepik.com/) - and another one, but requires an account for full access
 
 ### :wrench: Image Editors
 
