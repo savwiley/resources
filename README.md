@@ -6,10 +6,10 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 ## Contents
 
 * :rainbow: [Color Palettes](#rainbow-color-palettes)
+  * :fog: [Textures](#fog-textures)
   * :busts_in_silhouette: [Dark Theme Guides](#busts_in_silhouette-dark-theme--low-contrast-guides)
 * :framed_picture: [Stock Images](#framed_picture-free-stock-images)
   * 🔧 [Image Editors](#wrench-image-editors)
-* :fog: [Textures](#fog-textures)
 * :capital_abcd: [Fonts](#capital_abcd-fonts)
 * :smiley: [Icons](#smiley-icons)
 * :rocket: [API Collections](#rocket-api-collections)
@@ -24,6 +24,10 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Color Hunt](https://colorhunt.co/) - large palette collection
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - for use of the color wheel
 * [MyColor.Space](https://mycolor.space/) - to build palettes around a particular color
+
+### :fog: Textures
+
+* [Transparent Textures](https://www.transparenttextures.com/) - large collection of easy to search and preview textures
 
 ### :busts_in_silhouette: Dark Theme & Low Contrast Guides
 
@@ -44,12 +48,6 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 [TOP](#contents)
 
-## :fog: Textures
-
-* [Transparent Textures](https://www.transparenttextures.com/) - large collection of easy to search and preview textures
-
-[TOP](#contents)
-
 ## :capital_abcd: Fonts
 
 * [Google Fonts](https://fonts.google.com/) - large, easy to use collection
@@ -62,8 +60,8 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Simple Icons](https://simpleicons.org/) - great for finding brands and branding colors
 * [React Icons](https://react-icons.github.io/react-icons/) - extremely large collection to use with React
 * [Icons8](https://icons8.com/icons/) - large collection, best when using just HTML
-* [Google Fonts](https://fonts.google.com/icons) - they also have icons
 * [Nucleo](https://nucleoapp.com/free-icons) - comes with a web app you can use to customize icons, only 100 free options
+* [Google Fonts](https://fonts.google.com/icons) - they also have icons
 
 [TOP](#contents)
 
