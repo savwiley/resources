@@ -24,6 +24,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Color Hunt](https://colorhunt.co/) - large palette collection
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - for use of the color wheel
 * [MyColor.Space](https://mycolor.space/) - to build palettes around a particular color
+* [HTML Color Codes - Color Names](https://htmlcolorcodes.com/color-names/) - get the name, hex, and rgb code for a color
 
 ### :fog: Textures
 
