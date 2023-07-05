@@ -39,7 +39,8 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 ## :framed_picture: Free Stock Images
 
 * [Pexels](https://www.pexels.com/) - large, searchable collection
-* [Unsplash](https://unsplash.com/images/stock) - basically the same as Pexels
+* [Unsplash](https://unsplash.com/images/stock) - another large, searchable collection
+* [Pixabay](https://pixabay.com/) - another large, searchable collection
 
 ### :wrench: Image Editors
 
