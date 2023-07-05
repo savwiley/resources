@@ -54,6 +54,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Font Awesome](https://fontawesome.com/) - large collection, easy to use and add to your project
 * [Simple Icons](https://simpleicons.org/) - great for finding brands and branding colors
 * [React Icons](https://react-icons.github.io/react-icons/) - extremely large collection to use with React
+* [Icons8](https://icons8.com/icons/) - large collection, best when using just HTML
 * [Google Fonts](https://fonts.google.com/icons) - they also have icons
 
 [TOP](#contents)
