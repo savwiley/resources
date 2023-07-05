@@ -26,7 +26,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ### :busts_in_silhouette: Dark Theme & Low Contrast Guides
 
-* [Material Design](https://m2.material.io/design/color/dark-theme.html#behavior) - provides basic understanding of what dark themes achieve and how to create them
+* [Material Design](https://m2.material.io/design/color/dark-theme.html) - provides basic understanding of what dark themes achieve and how to create them
 
 [TOP](#contents)
 
