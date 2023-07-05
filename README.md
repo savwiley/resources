@@ -28,7 +28,8 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ### :fog: Textures
 
-* [Transparent Textures](https://www.transparenttextures.com/) - large collection of easy to search and preview textures
+* [Transparent Textures](https://www.transparenttextures.com/) - large collection of transparent textures, easy to search, customize, and preview
+* [bgfons](https://bgfons.com/) - large collection of non-transparent images, scroll a few rows down to get away from ShutterStock
 
 ### :busts_in_silhouette: Dark Theme & Low Contrast Guides
 
@@ -43,6 +44,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Unsplash](https://unsplash.com/images/stock) - another large, searchable collection
 * [Pixabay](https://pixabay.com/) - another large, searchable collection
 * [FreePik](https://www.freepik.com/) - and another one, but requires an account for full access
+* [MorgueFile](https://morguefile.com/) - and another one, be wary of ShutterStock ads trying to trick you
 
 ### :wrench: Image Editors
 
