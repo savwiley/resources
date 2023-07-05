@@ -50,10 +50,11 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## API Collections
 
+* [uniqid](https://github.com/adamhalasz/uniqid#readme) - generate unique hexatridecimal ID strings
+* [Pokemon API](https://github.com/sindresorhus/pokemon#readme) - just Pokemon names
 * [Awesome API](https://github.com/Kikobeats/awesome-api#readme)
 * [Public APIs](https://github.com/public-apis/public-apis#readme)
 * [Public APIs](https://github.com/n0shake/Public-APIs#readme) - a different one
-* [Pokemon API](https://github.com/sindresorhus/pokemon#readme) - just Pokemon names
 
 ## Markdown Guides
 
@@ -66,8 +67,10 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## Just for GitHub
 
-* [Shields](https://github.com/badges/shields#readme)
 * [Markdown Emojis](https://github.com/ikatyang/emoji-cheat-sheet#readme)
+* [Shields](https://github.com/badges/shields#readme) - small icons for README files that show commits, versions, and more
+* [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile#readme) - icons for programs, languages, and more (premade with Shields)
+* [Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - personal stats for your profile's README
 
 ## Just for VSCode
 
