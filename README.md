@@ -5,17 +5,17 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## Contents
 
-* :rainbow: [Color Palettes](https://github.com/savwiley/resources/edit/main/README.md#color-palettes)
-  * :busts_in_silhouette: [Dark Theme Guides](https://github.com/savwiley/resources/edit/main/README.md#dark-theme--low-contrast-guides)
-* :framed_picture: [Stock Images](https://github.com/savwiley/resources/edit/main/README.md#free-stock-images)
-* :fog: [Textures](https://github.com/savwiley/resources/edit/main/README.md#textures)
-* :capital_abcd: [Fonts](https://github.com/savwiley/resources/edit/main/README.md#fonts)
-* :smiley: [Icons](https://github.com/savwiley/resources/edit/main/README.md#icons)
-* :rocket: [API Collections](https://github.com/savwiley/resources/edit/main/README.md#api-collections)
-* :small_red_triangle_down: [Markdown Guides](https://github.com/savwiley/resources/edit/main/README.md#markdown-guides)
-* :open_file_folder: [Placeholders](https://github.com/savwiley/resources/edit/main/README.md#placeholder-content)
-* :octopus: [Resources for GitHub](https://github.com/savwiley/resources/edit/main/README.md#just-for-github)
-* :computer: [Resources for VSCode](https://github.com/savwiley/resources/edit/main/README.md#just-for-vscode)
+* :rainbow: [Color Palettes](#rainbow-color-palettes)
+  * :busts_in_silhouette: [Dark Theme Guides](#dark-theme--low-contrast-guides)
+* :framed_picture: [Stock Images](#free-stock-images)
+* :fog: [Textures](#textures)
+* :capital_abcd: [Fonts](#fonts)
+* :smiley: [Icons](#icons)
+* :rocket: [API Collections](#api-collections)
+* :small_red_triangle_down: [Markdown Guides](#markdown-guides)
+* :open_file_folder: [Placeholders](#placeholder-content)
+* :octopus: [Resources for GitHub](#just-for-github)
+* :computer: [Resources for VSCode](#just-for-vscode)
 
 ## :rainbow: Color Palettes
 
