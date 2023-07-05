@@ -8,6 +8,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * :rainbow: [Color Palettes](#rainbow-color-palettes)
   * :busts_in_silhouette: [Dark Theme Guides](#busts_in_silhouette-dark-theme--low-contrast-guides)
 * :framed_picture: [Stock Images](#framed_picture-free-stock-images)
+  * 🔧 [Image Editors](#wrench-image-editors)
 * :fog: [Textures](#fog-textures)
 * :capital_abcd: [Fonts](#capital_abcd-fonts)
 * :smiley: [Icons](#smiley-icons)
@@ -35,6 +36,11 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [Pexels](https://www.pexels.com/) - large, searchable collection
 * [Unsplash](https://unsplash.com/images/stock) - basically the same as Pexels
+
+### :wrench: Image Editors
+
+* [Photopea](https://www.photopea.com/) - free, online image editor
+* [gifcap](https://gifcap.dev/) - screencapture GIF images online
 
 [TOP](#contents)
 
