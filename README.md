@@ -6,16 +6,16 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 ## Contents
 
 * :rainbow: [Color Palettes](#rainbow-color-palettes)
-  * :busts_in_silhouette: [Dark Theme Guides](#dark-theme--low-contrast-guides)
-* :framed_picture: [Stock Images](#free-stock-images)
-* :fog: [Textures](#textures)
-* :capital_abcd: [Fonts](#fonts)
-* :smiley: [Icons](#icons)
-* :rocket: [API Collections](#api-collections)
-* :small_red_triangle_down: [Markdown Guides](#markdown-guides)
-* :open_file_folder: [Placeholders](#placeholder-content)
-* :octopus: [Resources for GitHub](#just-for-github)
-* :computer: [Resources for VSCode](#just-for-vscode)
+  * :busts_in_silhouette: [Dark Theme Guides](#busts_in_silhouette-dark-theme--low-contrast-guides)
+* :framed_picture: [Stock Images](#framed_picture-free-stock-images)
+* :fog: [Textures](#fog-textures)
+* :capital_abcd: [Fonts](#capital_abcd-fonts)
+* :smiley: [Icons](#smiley-icons)
+* :rocket: [API Collections](#rocket-api-collections)
+* :small_red_triangle_down: [Markdown Guides](#small_red_triangle_down-markdown-guides)
+* :open_file_folder: [Placeholders](#open_file_folder-placeholder-content)
+* :octopus: [Resources for GitHub](#octopus-just-for-github)
+* :computer: [Resources for VSCode](#computer-just-for-vscode)
 
 ## :rainbow: Color Palettes
 
