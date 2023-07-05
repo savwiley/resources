@@ -1,4 +1,5 @@
-# Coding Resources
+# Coding Resources ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/savwiley/resources/main)
+
 
 This repo is mostly for my own personal use, but feel free to scour it as much as you want. 
 
@@ -66,7 +67,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 ## Just for GitHub
 
 * [Shields](https://github.com/badges/shields#readme)
-* [Markdown Emojis](https://gist.github.com/rxaviers/7360908)
+* [Markdown Emojis](https://github.com/ikatyang/emoji-cheat-sheet#readme)
 
 ## Just for VSCode
 
