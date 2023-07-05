@@ -27,6 +27,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 ### :busts_in_silhouette: Dark Theme & Low Contrast Guides
 
 * [Material Design](https://m2.material.io/design/color/dark-theme.html) - provides basic understanding of what dark themes achieve and how to create them
+* [WebAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/) - a lot of helpful resources here but the contrast checker is very useful
 
 [TOP](#contents)
 
@@ -56,6 +57,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [React Icons](https://react-icons.github.io/react-icons/) - extremely large collection to use with React
 * [Icons8](https://icons8.com/icons/) - large collection, best when using just HTML
 * [Google Fonts](https://fonts.google.com/icons) - they also have icons
+* [Nucleo](https://nucleoapp.com/free-icons) - comes with a web app you can use to customize icons, only 100 free options
 
 [TOP](#contents)
 
@@ -80,6 +82,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [Boring Avatars](https://github.com/boringdesigners/boring-avatars#readme)
 * [Lorem Ipsum](https://lipsum.com/) - generates Lorem Ipsum text, can also be created in VSCode by typing `lorem`
+* [Bacon Ipsum](https://baconipsum.com/) - Lorem Ipsum text but funnier
 
 [TOP](#contents)
 
