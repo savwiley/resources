@@ -98,6 +98,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## :paintbrush: Design Inspiration
 
+* [CodePen - Spark](https://codepen.io/spark) - weekly blog full of cool ideas, has a mailing list
 * [Designspiration](https://www.designspiration.com/)
 * [abdz](https://abduzeedo.com/)
 * [Awwwards](https://www.awwwards.com/websites/)
