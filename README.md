@@ -126,8 +126,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [uniqid](https://github.com/adamhalasz/uniqid#readme) - generate unique hexatridecimal ID strings
 * [Pokemon API](https://github.com/sindresorhus/pokemon#readme) - just Pokemon names
 * [PokeAPI](https://github.com/sindresorhus/pokemon#readme) - but if you want more than just names...
-* [Awesome API](https://github.com/Kikobeats/awesome-api#readme) - collection
-* [Public APIs](https://github.com/public-apis/public-apis#readme) - collection
+* [Public APIs](https://github.com/public-apis/public-apis#readme) - a collection
 * [Public APIs](https://github.com/n0shake/Public-APIs#readme) - a different collection
 
 [TOP](#contents)
