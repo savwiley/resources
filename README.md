@@ -14,10 +14,10 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
   * 🎬 [Stock Videos](#clapper-free-stock-videos)
 * :smiley: [Icons](#smiley-icons)
 * :capital_abcd: [Fonts](#capital_abcd-fonts)
-* :rocket: [API Collections](#rocket-api-collections)
-* :heavy_check_mark: [Check Browser Support](#heavy_check_mark-browser-support)
 * :small_red_triangle_down: [Markdown Guides](#small_red_triangle_down-markdown-guides)
 * :open_file_folder: [Placeholders](#open_file_folder-placeholder-content)
+* :rocket: [API Collections](#rocket-api-collections)
+* :heavy_check_mark: [Check Browser Support](#heavy_check_mark-browser-support)
 * :octopus: [Resources for GitHub](#octopus-just-for-github)
 * :computer: [Resources for VSCode](#computer-just-for-vscode)
 
@@ -95,6 +95,22 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 [TOP](#contents)
 
+## :small_red_triangle_down: Markdown Guides
+
+* [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet#readme)
+* [Markdown Emojis](https://github.com/ikatyang/emoji-cheat-sheet#readme)
+* [StackEdit](https://stackedit.io/app#) - online markdown editor with live previews
+
+[TOP](#contents)
+
+## :open_file_folder: Placeholder Content
+
+* [Boring Avatars](https://github.com/boringdesigners/boring-avatars#readme)
+* [Lorem Ipsum](https://lipsum.com/) - generates Lorem Ipsum text, can also be created in VSCode by typing `lorem`
+* [Bacon Ipsum](https://baconipsum.com/) - Lorem Ipsum text but funnier
+
+[TOP](#contents)
+
 ## :rocket: API Collections
 
 * [uniqid](https://github.com/adamhalasz/uniqid#readme) - generate unique hexatridecimal ID strings
@@ -110,22 +126,6 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [Can I Use](https://caniuse.com/) - searchable database for basically every feature
 * [Accessibility Support](https://a11ysupport.io/) - the same but just for accessibility features
-
-[TOP](#contents)
-
-## :small_red_triangle_down: Markdown Guides
-
-* [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet#readme)
-* [Markdown Emojis](https://github.com/ikatyang/emoji-cheat-sheet#readme)
-* [StackEdit](https://stackedit.io/app#) - online markdown editor with live previews
-
-[TOP](#contents)
-
-## :open_file_folder: Placeholder Content
-
-* [Boring Avatars](https://github.com/boringdesigners/boring-avatars#readme)
-* [Lorem Ipsum](https://lipsum.com/) - generates Lorem Ipsum text, can also be created in VSCode by typing `lorem`
-* [Bacon Ipsum](https://baconipsum.com/) - Lorem Ipsum text but funnier
 
 [TOP](#contents)
 
