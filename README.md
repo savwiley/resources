@@ -117,6 +117,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet#readme)
 * [Markdown Emojis](https://github.com/ikatyang/emoji-cheat-sheet#readme)
+* [StackEdit](https://stackedit.io/app#) - online markdown editor with live previews
 
 [TOP](#contents)
 
