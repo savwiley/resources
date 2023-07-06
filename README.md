@@ -115,7 +115,8 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## :open_file_folder: Placeholder Content
 
-* [Boring Avatars](https://github.com/boringdesigners/boring-avatars#readme)
+* [Boring Avatars](https://github.com/boringdesigners/boring-avatars#readme) - generate avatars as gradients
+* [UI Avatars](https://ui-avatars.com/) - generate avatars as initials
 * [Lorem Ipsum](https://lipsum.com/) - generates Lorem Ipsum text, can also be created in VSCode by typing `lorem`
 * [Bacon Ipsum](https://baconipsum.com/) - Lorem Ipsum text but funnier
 
