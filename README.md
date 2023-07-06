@@ -8,11 +8,14 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * :rainbow: [Color Palettes](#rainbow-color-palettes)
   * :fog: [Textures](#fog-textures)
   * :busts_in_silhouette: [Dark Theme Guides](#busts_in_silhouette-dark-theme--low-contrast-guides)
+  * :paintbrush: [Design Inspiration](#paintbrush-design-inspiration)
 * :framed_picture: [Stock Images](#framed_picture-free-stock-images)
   * 🔧 [Image Editors](#wrench-image-editors)
-* :capital_abcd: [Fonts](#capital_abcd-fonts)
+  * 🎬 [Stock Videos](#clapper-free-stock-videos)
 * :smiley: [Icons](#smiley-icons)
+* :capital_abcd: [Fonts](#capital_abcd-fonts)
 * :rocket: [API Collections](#rocket-api-collections)
+* :heavy_check_mark: [Check Browser Support](#heavy_check_mark-browser-support)
 * :small_red_triangle_down: [Markdown Guides](#small_red_triangle_down-markdown-guides)
 * :open_file_folder: [Placeholders](#open_file_folder-placeholder-content)
 * :octopus: [Resources for GitHub](#octopus-just-for-github)
@@ -22,8 +25,12 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [Coolors.Co](https://coolors.co/) - collection of palettes, gradients, and can take palettes from images
 * [Color Hunt](https://colorhunt.co/) - large palette collection
+* [uiGradients](https://uigradients.com/) - large gradient collection
+* [Web Gradients](https://webgradients.com/) - another large gradient collection
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - for use of the color wheel
+* [Color Supply](https://colorsupplyyy.com/app/) - another color wheel
 * [MyColor.Space](https://mycolor.space/) - to build palettes around a particular color
+* [Accessible Color Matrix](https://toolness.github.io/accessible-color-matrix/) - for making accessible color palettes
 * [HTML Color Codes - Color Names](https://htmlcolorcodes.com/color-names/) - get the name, hex, and rgb code for a color
 
 ### :fog: Textures
@@ -35,6 +42,17 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [Material Design](https://m2.material.io/design/color/dark-theme.html) - provides basic understanding of what dark themes achieve and how to create them
 * [WebAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/) - a lot of helpful resources here but the contrast checker is very useful
+* [Colorable](https://colorable.jxnblk.com/001e02/9392cf) - great for playing with colors and contrast
+* [a11y Project](https://www.a11yproject.com/resources/) - tons of resources and guides about other accessibility options
+
+### :paintbrush: Design Inspiration
+
+* [Designspiration](https://www.designspiration.com/)
+* [abdz](https://abduzeedo.com/)
+* [Awwwards](https://www.awwwards.com/websites/)
+* [Site Inspire](https://www.siteinspire.com/)
+* [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
+* [Best Website Gallery](https://bestwebsite.gallery/)
 
 [TOP](#contents)
 
@@ -45,17 +63,16 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Pixabay](https://pixabay.com/) - another large, searchable collection
 * [FreePik](https://www.freepik.com/) - and another one, but requires an account for full access
 * [MorgueFile](https://morguefile.com/) - and another one, be wary of ShutterStock ads trying to trick you
+* [PicJumbo](https://picjumbo.com/) - still watch for ads but this one has a dark mode feature
 
 ### :wrench: Image Editors
 
 * [Photopea](https://www.photopea.com/) - free, online image editor
 * [gifcap](https://gifcap.dev/) - screencapture GIF images online
 
-[TOP](#contents)
+### :clapper: Free Stock Videos
 
-## :capital_abcd: Fonts
-
-* [Google Fonts](https://fonts.google.com/) - large, easy to use collection
+* [Coverr](https://coverr.co/) - for when images and gifs just aren't enough
 
 [TOP](#contents)
 
@@ -70,6 +87,12 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 [TOP](#contents)
 
+## :capital_abcd: Fonts
+
+* [Google Fonts](https://fonts.google.com/) - large, easy to use collection
+
+[TOP](#contents)
+
 ## :rocket: API Collections
 
 * [uniqid](https://github.com/adamhalasz/uniqid#readme) - generate unique hexatridecimal ID strings
@@ -77,6 +100,13 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Awesome API](https://github.com/Kikobeats/awesome-api#readme) - collection
 * [Public APIs](https://github.com/public-apis/public-apis#readme) - collection
 * [Public APIs](https://github.com/n0shake/Public-APIs#readme) - a different collection
+
+[TOP](#contents)
+
+## :heavy_check_mark: Browser Support
+
+* [Can I Use](https://caniuse.com/) - searchable database for basically every feature
+* [Accessibility Support](https://a11ysupport.io/) - the same but just for accessibility features
 
 [TOP](#contents)
 
