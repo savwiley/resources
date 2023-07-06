@@ -91,7 +91,17 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## :capital_abcd: Fonts
 
+### API Fonts
+
 * [Google Fonts](https://fonts.google.com/) - large, easy to use collection
+* [Adobe Fonts](https://developer.adobe.com/fonts/) - you have to sign up and get Creative Cloud but it's an option
+* [mapbox](https://docs.mapbox.com/api/maps/fonts/) - upload your own fonts to an API, among other things
+
+### Self-Hosted Fonts
+
+* [Font Space](https://www.fontspace.com/)
+* [daFont](https://www.dafont.com/) - make sure they're free first
+* [1001 Fonts](https://www.1001fonts.com/free-for-commercial-use-fonts.html) - the green price tag means it's free
 
 [TOP](#contents)
 
