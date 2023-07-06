@@ -149,8 +149,8 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## :octopus: Just for GitHub
 
-* [Shields](https://github.com/badges/shields#readme) - small icons for README files that show commits, versions, and more
-* [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile#readme) - icons for programs, languages, and more (premade with Shields)
+* [Shields](https://shields.io/) - small icons for README files that show commits, versions, and more
+* [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile#readme) - premade icons with Shields, has programs, languages, and more
 * [Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - personal stats for your profile's README
 
 [TOP](#contents)
