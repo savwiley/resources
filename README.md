@@ -8,12 +8,14 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * :rainbow: [Color Palettes](#rainbow-color-palettes)
   * :fog: [Textures](#fog-textures)
   * :busts_in_silhouette: [Dark Theme Guides](#busts_in_silhouette-dark-theme--low-contrast-guides)
-  * :paintbrush: [Design Inspiration](#paintbrush-design-inspiration)
 * :framed_picture: [Stock Images](#framed_picture-free-stock-images)
   * 🔧 [Image Editors](#wrench-image-editors)
   * 🎬 [Stock Videos](#clapper-free-stock-videos)
 * :smiley: [Icons](#smiley-icons)
 * :capital_abcd: [Fonts](#capital_abcd-fonts)
+  * :cool: [Self-Hosted Fonts](#cool-self-hosted-fonts)
+* :paintbrush: [Design Inspiration](#paintbrush-design-inspiration)
+  * :memo: [Design Tools](#memo-design-tools)
 * :small_red_triangle_down: [Markdown Guides](#small_red_triangle_down-markdown-guides)
 * :open_file_folder: [Placeholders](#open_file_folder-placeholder-content)
 * :rocket: [API Collections](#rocket-api-collections)
@@ -45,15 +47,6 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Colorable](https://colorable.jxnblk.com/001e02/9392cf) - great for playing with colors and contrast
 * [Anthony Hobday](https://anthonyhobday.com/sideprojects/saferules/) - several resources but in particularly this visual design guide
 * [a11y Project](https://www.a11yproject.com/resources/) - tons of resources and guides about other accessibility options
-
-### :paintbrush: Design Inspiration
-
-* [Designspiration](https://www.designspiration.com/)
-* [abdz](https://abduzeedo.com/)
-* [Awwwards](https://www.awwwards.com/websites/)
-* [Site Inspire](https://www.siteinspire.com/)
-* [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
-* [Best Website Gallery](https://bestwebsite.gallery/)
 
 [TOP](#contents)
 
@@ -91,18 +84,32 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## :capital_abcd: Fonts
 
-### API Fonts
-
 * [Google Fonts](https://fonts.google.com/) - large, easy to use collection
 * [Adobe Fonts](https://developer.adobe.com/fonts/) - you have to sign up and get Creative Cloud but it's an option
 * [mapbox](https://docs.mapbox.com/api/maps/fonts/) - upload your own fonts to an API, among other things
 
-### Self-Hosted Fonts
+### :cool: Self-Hosted Fonts
 
 * [Font Space](https://www.fontspace.com/)
 * [daFont](https://www.dafont.com/) - make sure they're free first
-* [1001 Fonts](https://www.1001fonts.com/free-for-commercial-use-fonts.html) - the green price tag means it's free
+* [1001 Fonts](https://www.1001fonts.com/free-for-commercial-use-fonts.html) - the green price tag means they're free
 
+[TOP](#contents)
+
+## :paintbrush: Design Inspiration
+
+* [Designspiration](https://www.designspiration.com/)
+* [abdz](https://abduzeedo.com/)
+* [Awwwards](https://www.awwwards.com/websites/)
+* [Site Inspire](https://www.siteinspire.com/)
+* [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
+* [Best Website Gallery](https://bestwebsite.gallery/)
+
+### :memo: Design Tools
+
+* [Figma](https://www.figma.com/)
+* [Canva](https://www.canva.com/)
+  
 [TOP](#contents)
 
 ## :small_red_triangle_down: Markdown Guides
