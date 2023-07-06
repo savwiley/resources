@@ -43,6 +43,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Material Design](https://m2.material.io/design/color/dark-theme.html) - provides basic understanding of what dark themes achieve and how to create them
 * [WebAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/) - a lot of helpful resources here but the contrast checker is very useful
 * [Colorable](https://colorable.jxnblk.com/001e02/9392cf) - great for playing with colors and contrast
+* [Anthony Hobday](https://anthonyhobday.com/sideprojects/saferules/) - several resources but in particularly this visual design guide
 * [a11y Project](https://www.a11yproject.com/resources/) - tons of resources and guides about other accessibility options
 
 ### :paintbrush: Design Inspiration
@@ -97,6 +98,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [uniqid](https://github.com/adamhalasz/uniqid#readme) - generate unique hexatridecimal ID strings
 * [Pokemon API](https://github.com/sindresorhus/pokemon#readme) - just Pokemon names
+* [PokeAPI](https://github.com/sindresorhus/pokemon#readme) - but if you want more than just names...
 * [Awesome API](https://github.com/Kikobeats/awesome-api#readme) - collection
 * [Public APIs](https://github.com/public-apis/public-apis#readme) - collection
 * [Public APIs](https://github.com/n0shake/Public-APIs#readme) - a different collection
