@@ -39,6 +39,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [Transparent Textures](https://www.transparenttextures.com/) - large collection of transparent textures, easy to search, customize, and preview
 * [bgfons](https://bgfons.com/) - large collection of non-transparent images, scroll a few rows down to get away from ShutterStock
+* [Indieground](https://indieground.net/shop-category/freebies/) - lots of textures and other resources, free and otherwise
 
 ### :busts_in_silhouette: Dark Theme & Low Contrast Guides
 
@@ -68,6 +69,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 ### :clapper: Free Stock Videos
 
 * [Coverr](https://coverr.co/) - for when images and gifs just aren't enough
+* [Eyecandy](https://eycndy.co/) - made to be an inspirational/design resource, but also has tons of GIFs
 
 [TOP](#contents)
 
@@ -78,6 +80,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [React Icons](https://react-icons.github.io/react-icons/) - extremely large collection to use with React
 * [Icons8](https://icons8.com/icons/) - large collection, best when using just HTML
 * [Nucleo](https://nucleoapp.com/free-icons) - comes with a web app you can use to customize icons, only 100 free options
+* [The Noun Project](https://thenounproject.com/) - you'll need an account, but they have lots of free vector icons
 * [Google Fonts](https://fonts.google.com/icons) - they also have icons
 
 [TOP](#contents)
@@ -93,6 +96,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Font Space](https://www.fontspace.com/)
 * [daFont](https://www.dafont.com/) - make sure they're free first
 * [1001 Fonts](https://www.1001fonts.com/free-for-commercial-use-fonts.html) - the green price tag means they're free
+* [Indieground](https://indieground.net/shop-category/freebies/) - lots of fonts and other resources, free and otherwise
 
 [TOP](#contents)
 
@@ -105,6 +109,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Site Inspire](https://www.siteinspire.com/)
 * [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
 * [Best Website Gallery](https://bestwebsite.gallery/)
+* [Eyecandy](https://eycndy.co/)
 
 ### :memo: Design Tools
 
