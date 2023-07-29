@@ -81,8 +81,10 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [React Icons](https://react-icons.github.io/react-icons/) - extremely large collection to use with React
 * [Icons8](https://icons8.com/icons/) - large collection, best when using just HTML
 * [Nucleo](https://nucleoapp.com/free-icons) - comes with a web app you can use to customize icons, only 100 free options
-* [The Noun Project](https://thenounproject.com/) - you'll need an account, but they have lots of free vector icons
-* [Google Fonts](https://fonts.google.com/icons) - they also have icons
+* [Iconicons](https://ionic.io/ionicons) - SVG icons, either to download or install in your project
+* [Feather Icons](https://feathericons.com/) - SVG icons to download
+* [The Noun Project](https://thenounproject.com/) - you'll need an account, but lots of free SVG icons
+* [Material Icons](https://fonts.google.com/icons) - Google Fonts but icons
 
 [TOP](#contents)
 
