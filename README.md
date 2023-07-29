@@ -12,6 +12,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
   * 🔧 [Image Editors](#wrench-image-editors)
   * 🎬 [Stock Videos](#clapper-free-stock-videos)
 * :smiley: [Icons](#smiley-icons)
+  * :star_struck: [Create Icons](#star_struck-create-icons)
 * :capital_abcd: [Fonts](#capital_abcd-fonts)
   * :cool: [Self-Hosted Fonts](#cool-self-hosted-fonts)
 * :paintbrush: [Design Inspiration](#paintbrush-design-inspiration)
@@ -85,6 +86,15 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Feather Icons](https://feathericons.com/) - SVG icons to download
 * [The Noun Project](https://thenounproject.com/) - you'll need an account, but lots of free SVG icons
 * [Material Icons](https://fonts.google.com/icons) - Google Fonts but icons
+
+### :star_struck: Create Icons
+
+* [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) - create SVG icons in an online open editor
+* [Inkscape](https://inkscape.org/) - create more complex SVG icons in a program
+* [Affinity](https://affinity.serif.com/en-us/designer/) - more powerful than Inkscape but not free
+* [Snap.svg](http://snapsvg.io/) - JavaScript SVG library
+* [SVG.js](https://svgjs.dev/docs/3.0/) - another JS SVG library
+* [d3](https://d3js.org/) - and another but this one's just for data visualization
 
 [TOP](#contents)
 
