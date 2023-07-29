@@ -165,6 +165,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 ## :computer: Just for VSCode
 
+* [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - quick ways to use Emmet
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [Fira Code](https://github.com/tonsky/FiraCode#readme) - font for your code
 * [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) - it's just my favorite theme
