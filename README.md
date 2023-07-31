@@ -19,6 +19,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
   * :memo: [Design Tools](#memo-design-tools)
 * :small_red_triangle_down: [Markdown Guides](#small_red_triangle_down-markdown-guides)
 * :open_file_folder: [Placeholders](#open_file_folder-placeholder-content)
+* :recycle: [CSS Resets](#recycle-css-resets)
 * :rocket: [API Collections](#rocket-api-collections)
 * :heavy_check_mark: [Check Browser Support](#heavy_check_mark-browser-support)
 * :octopus: [Resources for GitHub](#octopus-just-for-github)
@@ -145,6 +146,15 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [UI Avatars](https://ui-avatars.com/) - generate avatars as initials
 * [Lorem Ipsum](https://lipsum.com/) - generates Lorem Ipsum text, can also be created in VSCode by typing `lorem`
 * [Bacon Ipsum](https://baconipsum.com/) - Lorem Ipsum text but funnier
+
+[TOP](#contents)
+
+## :recycle: CSS Resets
+
+* [The Meyer Reset](https://meyerweb.com/eric/tools/css/reset/)
+* [Normalize.css](https://nicolasgallagher.com/about-normalize-css/) - browser supported CSS remains unedited
+* [Vanilla CSS Un-Reset](https://cssdeck.com/blog/scripts/vanilla-css-un-reset/) - intended to be a base stylesheet for you to edit
+* [Post-CSS Normalize](https://github.com/csstools/postcss-normalize) - installed style that works based on current browser
 
 [TOP](#contents)
 
