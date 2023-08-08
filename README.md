@@ -21,6 +21,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * :open_file_folder: [Placeholders](#open_file_folder-placeholder-content)
 * :recycle: [CSS Resets](#recycle-css-resets)
 * :rocket: [API Collections](#rocket-api-collections)
+* :robot: [Regular Expression Guides](#robot-regular-expression-guides)
 * :heavy_check_mark: [Check Browser Support](#heavy_check_mark-browser-support)
 * :octopus: [Resources for GitHub](#octopus-just-for-github)
 * :computer: [Resources for VSCode](#computer-just-for-vscode)
@@ -166,6 +167,15 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [PokeAPI](https://github.com/sindresorhus/pokemon#readme) - but if you want more than just names...
 * [Public APIs](https://github.com/public-apis/public-apis#readme) - a collection
 * [Public APIs](https://github.com/n0shake/Public-APIs#readme) - a different collection
+
+[TOP](#contents)
+
+## :robot: Regular Expression Guides
+
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+* [MDN Cheat Sheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
+* [Cheatography](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) - easy to search cheat sheet
+* [QuickRef.ME](https://quickref.me/regex.html#regex-in-javascript) - another that's easy to search but includes different languages
 
 [TOP](#contents)
 
