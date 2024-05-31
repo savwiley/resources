@@ -37,6 +37,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [MyColor.Space](https://mycolor.space/) - to build palettes around a particular color
 * [Accessible Color Matrix](https://toolness.github.io/accessible-color-matrix/) - for making accessible color palettes
 * [HTML Color Codes - Color Names](https://htmlcolorcodes.com/color-names/) - get the name, hex, and rgb code for a color
+* [Encycolorpedia](https://encycolorpedia.com/) - a database for color names, web safe colors, and even an API
 * [Eye Dropper](https://eyedropper.org/) - Chrome extension to use an eye dropper on any webpage
 
 ### :fog: Textures
