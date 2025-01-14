@@ -84,6 +84,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Simple Icons](https://simpleicons.org/) - great for finding brands and branding colors
 * [React Icons](https://react-icons.github.io/react-icons/) - extremely large collection to use with React
 * [Icons8](https://icons8.com/icons/) - large collection, best when using just HTML
+* [SYMBL](https://symbl.cc/) - unicode symbols and emojis for use in everything
 * [Nucleo](https://nucleoapp.com/free-icons) - comes with a web app you can use to customize icons, only 100 free options
 * [Iconicons](https://ionic.io/ionicons) - SVG icons, either to download or install in your project
 * [Feather Icons](https://feathericons.com/) - SVG icons to download
