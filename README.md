@@ -30,6 +30,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 
 * [Coolors.Co](https://coolors.co/) - collection of palettes, gradients, and can take palettes from images
 * [Color Hunt](https://colorhunt.co/) - large palette collection
+* [ColorsWall](https://colorswall.com/palettes) - another large palette collection
 * [uiGradients](https://uigradients.com/) - large gradient collection
 * [Web Gradients](https://webgradients.com/) - another large gradient collection
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - for use of the color wheel
