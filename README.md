@@ -36,6 +36,7 @@ This repo is mostly for my own personal use, but feel free to scour it as much a
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - for use of the color wheel
 * [Color Supply](https://colorsupplyyy.com/app/) - another color wheel
 * [MyColor.Space](https://mycolor.space/) - to build palettes around a particular color
+* [ColorHexa](https://www.colorhexa.com/) - color encyclopedia for palettes, hues, and gradients
 * [Accessible Color Matrix](https://toolness.github.io/accessible-color-matrix/) - for making accessible color palettes
 * [HTML Color Codes - Color Names](https://htmlcolorcodes.com/color-names/) - get the name, hex, and rgb code for a color
 * [Encycolorpedia](https://encycolorpedia.com/) - a database for color names, web safe colors, and even an API
